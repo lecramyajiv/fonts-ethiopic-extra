@@ -30,3 +30,4 @@
     7. Gurage Fider 1977
     8. Gurage Fider 1998
 9. Ge'ez Manuscript Zemen
+10. Mulat Abay

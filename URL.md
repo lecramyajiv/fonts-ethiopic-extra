@@ -17,3 +17,4 @@
 17. [Gurage-fider-1998-woff](https://github.com/raeytype/gurage-font-collection/raw/refs/heads/master/woff/Gurage-Fider-1998.woff)
 18. [Gurage-fider-1998-woff2](https://github.com/raeytype/gurage-font-collection/raw/refs/heads/master/woff/Gurage-Fider-1998.woff2)
 19. [Ge'ez Manuscript Zemen](https://github.com/geezorg/emufi/releases/download/v1.1.0/emufi-v1_1.zip)
+20. [Mulat Abay](https://github.com/fasilx/mulatAbay/archive/refs/tags/v1.000.tar.gz)
