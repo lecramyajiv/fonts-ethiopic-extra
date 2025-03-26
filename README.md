@@ -29,3 +29,4 @@
     6. Gurage Fider 1966
     7. Gurage Fider 1977
     8. Gurage Fider 1998
+9. Ge'ez Manuscript Zemen
