@@ -1,0 +1,35 @@
+FONTLOG for Senamirmir LeTewahedo Fonts
+
+  This file provides information on Senamirmir LeTewahedo fonts. This information 
+  should be distributed along with the fonts and any derivative work.
+
+Basic Font Information
+
+  Senamirmir LeTewahedo is a collection of Unicode fonts that support many of 
+  Ethiopian and Eritrean languages.
+
+     Ethiopic LeTewahedo Regular:   	Basic Latin, Latin-1, Ethiopic
+     Ethiopic LeTewahedo Italic:     	Basic Latin, Latin-1, Ethiopic
+     Ethiopic LeTewahedo Bold: 		    Basic Latin, Latin-1, Ethiopic
+     Ethiopic LeTewahedo BoldItalic:  Basic Latin, Latin-1, Ethiopic
+  
+
+Change Log
+
+  -- 27 September 2023 Senamirmir LeTewahedo 1.0 is released under the SIL Open Font License.
+
+
+Acknowledgements
+
+  - The Latin-1 portion of the fonts is based on the "Concrete Roman fonts" designed 
+    by Donald E. Knuth for the book "Concrete Mathematics", which was written by 
+    Graham, Knuth, and Patadhnik. The original font support only Basic Latin. It now 
+    includes Latin-1.
+   
+  - The Senamirmir Fonts project is created and maintained by Senamirmir Project.
+
+  - For more information, please visit the Senamirmir Project.
+
+      http://www.senamirmir.org
+
+    Or send an email to <info AT senamirmir DOT org>

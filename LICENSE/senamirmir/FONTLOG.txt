@@ -1,0 +1,40 @@
+FONTLOG for Senamirmir Fonts
+
+  This file provides information on Senamirmir fonts. This information 
+  should be distributed along with the fonts and any derivative work.
+
+Basic Font Information
+
+  Senamirmir fonts are a collection of Unicode fonts that support many of 
+  Ethiopian and Eritrean languages. The Lessan fonts family replaces the
+  font known as "Ethiopia Jiret". 
+
+     Ethiopic Lessan Regular: Latin-1, Ethiopic
+     Ethiopic Lessan Light: Latin-1, Ethiopic
+
+  The other font families in this distribution include:
+
+     Ethiopic Abay Regular:   Latin-1, Ethiopic
+     Ethiopic Abay Light:     Latin-1, Ethiopic
+     Ethiopic Sadiss Regular: Latin-1, Ethiopic
+     Ethiopic Sadiss Light:   Latin-1, Ethiopic
+
+Change Log
+
+  -- 15 July 2019 Senamirmir Fonts 5.0 released under the SIL Open Font License.
+  -- 10 August 2020, the fonts Abay and Sadiss are released under the SIL Open Font License.
+  -- 10 August 2020, Ethiopic Lessan Italic is removed for distribution.
+
+
+Acknowledgements
+
+  - The Latin-1 portion of the glyphs are inherited from fonts that were released
+    as public domain by IBM. 
+   
+  - The Senamirmir Fonts project is created and maintained by Senamirmir Project.
+
+  - For more information, please visit the Senamirmir Project.
+
+      http://www.senamirmir.org
+
+    Or send an email to <info AT senamirmir DOT org>

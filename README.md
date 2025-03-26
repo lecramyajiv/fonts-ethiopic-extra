@@ -1,3 +1,28 @@
 # fonts-ethiopic-extra
 
 1. SIL/Abyssinica
+2. AbbaGarima
+3. Brana
+4. Exodus-Abyssinica
+5. Washra
+    1. Ethiopic Fantuwa
+    2. Ethiopic Yigezu Bisrat Goffer
+    3. Ethiopic Hiuwa
+    4. Ethiopia Jiret
+    5. Ethiopic Tint
+    6. Ethiopic Washra
+    7. Ethiopic Wookianos
+    8. Ethiopic Yebse
+    9. Ethiopic Zelan
+    10. Ethiopic Yigezu Bisrat Gothic
+6. Senamirmir
+    1. Ethiopic Abay
+    2. Ethiopic Sadiss
+    3. Ethiopic Lessan
+7. Ethiopic LeTewahedo
+8. Gurage Font Family
+    1. Gurage Ethiopic Jiret
+    2. Gurage Ethiopic Fantuwa
+    3. Gurage Ethiopic Wookianos
+    4. Gurage Noto Sans Ethiopic
+    5. Gurage Noto Serif Ethiopic
