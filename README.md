@@ -1,5 +1,8 @@
 # fonts-ethiopic-extra
 
+Collection of Ethiopic fonts for Slackware Linux.
+The following fonts are available in this package.
+
 1. SIL/Abyssinica
 2. AbbaGarima
 3. Brana
