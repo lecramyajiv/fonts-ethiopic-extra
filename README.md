@@ -31,3 +31,5 @@
     8. Gurage Fider 1998
 9. Ge'ez Manuscript Zemen
 10. Mulat Abay
+11. Mulat Awash
+12. Mulat Addis
