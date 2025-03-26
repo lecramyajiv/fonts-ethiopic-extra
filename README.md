@@ -26,3 +26,6 @@
     3. Gurage Ethiopic Wookianos
     4. Gurage Noto Sans Ethiopic
     5. Gurage Noto Serif Ethiopic
+    6. Gurage Fider 1966
+    7. Gurage Fider 1977
+    8. Gurage Fider 1998

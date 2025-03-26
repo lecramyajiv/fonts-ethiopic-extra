@@ -7,3 +7,6 @@
 7. [LeTewahedo](https://senamirmir.com/senamirmir2023/assets/dist/SenamirmirLeTewahedo-1.0.zip)
 8. [Gurage-ttf](https://github.com/raeytype/gurage-font-collection/releases/download/v1.1.0-modern/Modern-Gurage-TTF-v1.1.0.zip)
 9. [Gurage-woff](https://github.com/raeytype/gurage-font-collection/releases/download/v1.1.0-modern/Modern-Gurage-WOFF-v1.1.0.zip)
+10. [Gurage Fider 1966](https://github.com/raeytype/gurage-font-collection/blob/master/ttf/Gurage-Fider-1966.ttf)
+11. [Gurage Fider 1977](https://github.com/raeytype/gurage-font-collection/blob/master/ttf/Gurage-Fider-1977.ttf)
+12. [Gurage Fider 1998](https://github.com/raeytype/gurage-font-collection/blob/master/ttf/Gurage-Fider-1998.ttf)
